@@ -1,0 +1,22 @@
+{
+  "name": "jsondiff",
+  "version": "1.0.0",
+  "description": "Create RFC 6902 style patches between JSON objects.",
+  "main": "json-diff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brenoferreira/json-diff.git"
+  },
+  "keywords": [
+    "json-diff"
+  ],
+  "author": "andreas-gruenbacher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenoferreira/json-diff/issues"
+  },
+  "homepage": "https://github.com/brenoferreira/json-diff"
+}
